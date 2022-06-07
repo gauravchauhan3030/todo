@@ -1,0 +1,14 @@
+.check-completed {
+  color: green;
+  cursor: pointer;
+  /* text-decoration: line-through; */
+}
+
+.check-active {
+  color: #fff;
+  cursor: pointer;
+}
+
+.input-completed {
+  text-decoration: line-through #85bf6b;
+}

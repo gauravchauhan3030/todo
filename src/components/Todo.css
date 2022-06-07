@@ -1,0 +1,7 @@
+.completed-todo {
+  display: inline-block;
+  text-decoration: line-through;
+}
+.notCompleted-todo {
+  display: inline-block;
+}
